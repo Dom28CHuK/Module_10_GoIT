@@ -1,4 +1,4 @@
-package classes;
+package phoneNumbers;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

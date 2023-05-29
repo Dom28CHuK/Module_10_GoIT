@@ -1,4 +1,4 @@
-package classes;
+package wordsList;
 
 import java.io.File;
 import java.io.FileNotFoundException;
